@@ -465,7 +465,7 @@ async def maqsad_qabul(update: Update, context: ContextTypes.DEFAULT_TYPE):
 📢 **Yangi Eventlarni, Workshoplarni va Yangililarni o'tqaib yubormasligiz uchun tepadagi kanallarni kuzatishda davom eting**:
 https://t.me/StarupAmbassadors
 
-📢 Klubimizga qo'shiling: https://startup-ambassadors-registration-production.up.railway.app/
+➕ Klubimizga qo'shiling: https://startup-ambassadors-registration-production.up.railway.app/
 
 Rahmat! ✨
     """
